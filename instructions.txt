@@ -1,0 +1,4 @@
+this bot is made using python
+make sure to download the libraries by using : 
+pip install google-api-python-client
+google how you can get ur yt api key , use it by ur own risk .
